@@ -1,6 +1,6 @@
 # DesafioCompiladores
 
-Desafio de Compiladores Faculdade de Tecnologia Termomecanica, Curso Engenharia de Computação 6° Semestre.
+Desafio de Compiladores proposto pela Faculdade de Tecnologia Termomecanica, Curso Engenharia de Computação 6° Semestre.
 
 Ler um arquivo texto e marcar cada linha com OK ou Inválido:
 
